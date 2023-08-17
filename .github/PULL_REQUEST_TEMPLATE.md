@@ -2,11 +2,6 @@
 - Fill in the form below correctly. This will help the Pest team to understand the PR and also work on it.
 -->
 
-### Target Version
-
-- [ ] 1.x
-- [ ] 2.x
-
 ### What:
 
 - [ ] Bug Fix
